@@ -1,3 +1,7 @@
 body {
     font-family: Helvetica, Courier, serif;
 }
+
+h1 {
+    text-align:center;
+}
