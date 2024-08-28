@@ -1,9 +1,13 @@
 body {
     font-family: Helvetica, Courier, serif;
+    background-color: color #f5f5ac;
+    
 }
+
 
 h1 {
     text-align:center;
+    color:#cc1515;
 }
 
 .center {
