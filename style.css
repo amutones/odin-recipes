@@ -12,3 +12,7 @@ h1 {
     margin-right: auto;
     width: 50%;
 }
+
+.image {
+    border-radius: 15px;
+}
