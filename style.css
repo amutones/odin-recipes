@@ -8,6 +8,10 @@ body {
 h1 {
     text-align:center;
     color:#cc1515;
+    border-style:outset;
+    border-radius: 15px;
+    border-color: #ca5454;
+    
 }
 
 .center {
