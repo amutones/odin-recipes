@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica, Courier, serif;
+    background-color: color #f5f5ac;
+    
+}
+
+
+h1 {
+    text-align:center;
+    color:#cc1515;
+    border-style:outset;
+    border-radius: 15px;
+    border-color: #ca5454;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image {
+    border-radius: 15px;
+}
