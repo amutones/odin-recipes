@@ -55,7 +55,7 @@ ul {
 }
 
 .thumbnail {
-    display: inline-block;
+    display: inline-flex;
 }
 
 .homepage {
