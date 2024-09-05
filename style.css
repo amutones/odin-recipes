@@ -35,7 +35,6 @@ h2 {
 
 a {
     display:block;
-    text-align:center;
 }
 a:link {
     text-decoration: none;
@@ -56,6 +55,7 @@ ul {
 
 .thumbnail {
     display: inline-flex;
+    text-align: center;
 }
 
 .homepage {
