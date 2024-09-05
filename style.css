@@ -2,7 +2,7 @@ body {
     font-family: Helvetica, Courier, serif;
     color:#cc1515;
     background-color: color #f5f5ac;
-    
+    box-sizing: border-box;
 }
 
 
