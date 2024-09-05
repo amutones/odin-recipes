@@ -63,4 +63,12 @@ ul {
     border-color: #ca5454;
     border-radius: 15px;
     padding: 5px;
+    height: 330px;
+    width: 310px;
+    margin: 30px;
+}
+
+.homepage > .image {
+    width: 310px;
+    height: 310px;
 }
