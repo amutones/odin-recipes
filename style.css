@@ -54,21 +54,23 @@ ul {
 }
 
 .thumbnail {
-    display: inline-flex;
+    display: flex;
     text-align: center;
+    
 }
 
 .homepage {
-    border-style: inset;
-    border-color: #ca5454;
-    border-radius: 15px;
+    /* border-style: inset; */
+    /* border-color: #ca5454; */
+    /* border-radius: 15px; */
     padding: 5px;
-    height: 330px;
-    width: 310px;
+    height: 120px;
+    /* width: 310px; */
     margin: 30px;
+    flex:1;
 }
 
 .homepage > .image {
-    width: 310px;
-    height: 310px;
+    width: 100px;
+    height: 100px;
 }
